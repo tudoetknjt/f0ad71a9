@@ -2,6 +2,8 @@
 
 Raw experimental results of the flight experiments.
 
+[![DOI](https://zenodo.org/badge/101872411.svg)](https://zenodo.org/badge/latestdoi/101872411)
+
 ## Signal Parameters
 
 | Parameter | Value | Unit |
